@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # draftNG 🚀
 
 An open-source repository dedicated to the Angular community, offering premium, highly polished, and modern web application templates designed to follow industry best practices and clean architecture.
@@ -66,3 +67,6 @@ npm run dev
 ## 📄 License
 
 This project is open-source and licensed under the [MIT License](LICENSE).
+=======
+# dashboard-ecommerce
+>>>>>>> c50875937bfaf7de24a9145160199dd1a87e5bc8
